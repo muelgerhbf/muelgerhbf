@@ -1,4 +1,4 @@
-# Hello, I'm Mirac
+# Hello, I'm Miraç
 
 ## technologies & skills
 
