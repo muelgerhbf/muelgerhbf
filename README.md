@@ -1,4 +1,4 @@
-# Hello, I'm Miraç
+# 👋 Hello, I'm Miraç
 
 ## technologies & skills
 
@@ -20,7 +20,7 @@ In my free time, I enjoy:
 ## currently working on
 - Learning PHP & Python
 - Word Guessing Game with Python
-- Website - backend with HTML, CSS, Javascript and PHP
+- Website - backend-focused with HTML, CSS, Javascript and PHP
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muelgerhbf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
