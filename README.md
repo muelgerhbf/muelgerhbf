@@ -19,7 +19,7 @@ In my free time, I enjoy:
 
 ## currently working on
 - Learning PHP & Python
-- Word Guessing Game with Python
+- MP3 Converter in Python
 - Backend-focused Website with HTML, CSS, Javascript and PHP
 
 ---
