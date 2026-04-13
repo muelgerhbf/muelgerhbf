@@ -11,16 +11,8 @@
 ### other technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## about me
-In my free time, I enjoy:
-- Programming and learning about new technologies
-- Reading and expanding my knowledge
-- Going to school and learning new things
-
 ## currently working on
-- Learning PHP & Python
-- MP3 Converter in Python
-- Backend-focused Website with HTML, CSS, Javascript and PHP
+- Data Engine in C3
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muelgerhbf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
