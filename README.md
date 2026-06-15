@@ -18,7 +18,7 @@ I’m currently learning to code and am passionate about technology! I love buil
 | Category | Technologies |
 | :--- | :--- |
 | **Programming Languages** | Python, JavaScript, PHP |
-| **Web Development** | HTML, CSS, jQuery, Bootstrap |
+| **Web Development** | HTML, CSS, jQuery, Bootstrap, Laravel |
 | **Databases & Data** | SQLite, MongoDB, XML |
 | **DevOps & Platforms** | Docker, Azure, Jira |
 | **AI Tools** | ChatGPT, Claude, GitHub Copilot |
