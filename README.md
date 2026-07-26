@@ -10,7 +10,7 @@ I’m currently learning to code and am passionate about technology! I love buil
 | :--- | :--- |
 | **Programming Languages** | C, C# |
 | **Databases** | MySQL |
-| **Operating Systems** | Linux |
+| **Operating Systems** | Windows 11 |
 
 
 ### Have Worked With
@@ -22,9 +22,4 @@ I’m currently learning to code and am passionate about technology! I love buil
 | **Databases & Data** | SQLite, MongoDB, XML |
 | **DevOps & Platforms** | Docker, Azure, Jira |
 | **AI Tools** | ChatGPT, Claude, GitHub Copilot |
-| **Operating Systems** | Windows 11, Windows 10 |
-
-### GitHub Analytics
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muelgerhbf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Miraçs Top Langs" />
-</div>
+| **Operating Systems** | Windows 11, Windows 10, Linux (Debian, Ubuntu, Fedora, Mint) |
