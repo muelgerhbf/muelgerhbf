@@ -4,22 +4,3 @@
 ## About me
 I’m currently learning to code and am passionate about technology! I love building projects from scratch, exploring new programming languages, and constantly messing up (and then fixing) my development environment.
 
-### Currently Working With
-
-| Category | Technologies |
-| :--- | :--- |
-| **Programming Languages** | C, C# |
-| **Databases** | MySQL |
-| **Operating Systems** | Windows 11 |
-
-
-### Have Worked With
-
-| Category | Technologies |
-| :--- | :--- |
-| **Programming Languages** | Python, JavaScript, PHP |
-| **Web Development** | HTML, CSS, jQuery, Bootstrap, Laravel |
-| **Databases & Data** | SQLite, MongoDB, XML, JSON |
-| **DevOps & Platforms** | Docker, Azure, Jira |
-| **AI Tools** | ChatGPT, Claude, GitHub Copilot |
-| **Operating Systems** | Windows 11, Windows 10, Linux (Debian, Ubuntu, Fedora, Mint) |
